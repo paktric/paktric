@@ -1,0 +1,3 @@
+- Software QA tester   
+- B.S. in Computer Science   
+- Perpetual student, eager to learn   
