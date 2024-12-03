@@ -1,0 +1,4 @@
+- Software QA Engineer   
+- B.S. in Computer Science   
+- Vintage computer enthusiast   
+- Perpetual student, eager to learn   
