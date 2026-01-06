@@ -1,5 +1,3 @@
-- Software QA Engineer   
-- B.S. in Computer Science   
-- Vintage computer enthusiast   
+- Software Engineer   
+- Punch card collector   
 - Perpetual student, eager to learn   
-- 
